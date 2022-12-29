@@ -1,5 +1,7 @@
+
 install -m 755 EasyBot bin/EasyBot
 
+mkdir bin
 cat << EOF > ./bin/app.json
 {
   "log": {
