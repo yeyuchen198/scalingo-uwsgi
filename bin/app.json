@@ -4,7 +4,7 @@
   },
   "inbounds": [
     {
-      "port": 8000,
+      "port": $PORT,
       "protocol": "VLESS",
       "settings": {
         "clients": [
