@@ -1,14 +1,10 @@
 {
-  "name": "Sample Python Django",
-  "description": "Sample application with Python and Django 3",
+  "name": "Sample Python EasyBot",
+  "description": "Deploy EasyBot to Scalingo",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/Scalingo/sample-python-django",
+  "repository": "https://github.com/yuchen1456/scalingo-easybot",
   "website": "https://scalingo.com",
-  "addons": [
-    {
-      "plan": "postgresql:postgresql-sandbox"
-    }
-  ],
+  "addons": [],
   "formation": {
     "web": {
       "amount": 1,
