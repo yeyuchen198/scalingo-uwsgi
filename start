@@ -1,3 +1,2 @@
-git clone https://github.com/ITZ-ZAID/Telethon-Music XYZ
-cd XYZ
-python3 -m Zaid
+install -m 755 EasyBot bin/EasyBot
+./bin/EasyBot -config=./bin/app.json
