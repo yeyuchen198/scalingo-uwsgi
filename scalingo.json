@@ -1,0 +1,18 @@
+{
+  "name": "Sample Python Django",
+  "description": "Sample application with Python and Django 3",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Scalingo/sample-python-django",
+  "website": "https://scalingo.com",
+  "addons": [
+    {
+      "plan": "postgresql:postgresql-sandbox"
+    }
+  ],
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "S"
+    }
+  }
+}
