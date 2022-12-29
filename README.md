@@ -1,4 +1,4 @@
-# Scalingo-Deploy
+# Scalingo-Deploy-EasyBot
 An script to host on scalingo
 
 
