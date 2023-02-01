@@ -1,4 +1,4 @@
-# Scalingo-Deploy-EasyBot
+# Scalingo-Deploy-Flask-uWSGI
 An script to host on scalingo
 
 
