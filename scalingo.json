@@ -1,8 +1,8 @@
 {
-  "name": "Sample Python EasyBot",
-  "description": "Deploy EasyBot to Scalingo",
+  "name": "Sample Python Flask uWSGI",
+  "description": "Deploy Flask uWSGI to Scalingo",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/yuchen1456/scalingo-easybot",
+  "repository": "https://github.com/yeyuchen198/scalingo-uwsgi",
   "website": "https://scalingo.com",
   "addons": [],
   "env": {
